@@ -1,0 +1,41 @@
+company,sector,stage,owner,last_contact_date,next_followup_date,expected_value_inr
+EmberPlay,EdTech,Closed Lost,Aarav,2026-09-18,2026-09-26,250000
+ZenithFoods,EdTech,Lead Identified,Meera,2026-09-11,2026-09-17,150000
+ApexWear,FMCG,Contacted,Meera,2026-09-24,2026-09-28,150000
+OrbitWear,Gaming,Pitch Sent,Meera,2026-09-20,2026-09-26,250000
+LumenPlay,EdTech,Closed Lost,Meera,2026-09-21,2026-09-25,250000
+VertexLearn,Travel,Lead Identified,Diya,2026-10-01,2026-10-04,100000
+CobaltWorks,Telecom,Negotiation,Diya,2026-09-21,2026-09-27,50000
+BrightWorks,Travel,Contacted,Aarav,2026-10-02,2026-10-11,150000
+LumenMobile,EdTech,Lead Identified,Kabir,2026-09-17,2026-09-25,100000
+CobaltLearn,FinTech,Closed Won,Kabir,2026-09-20,2026-09-27,100000
+OrbitPay,Gaming,Pitch Sent,Kabir,2026-09-14,2026-09-20,100000
+ZenithPlay,Fashion,Lead Identified,Diya,2026-09-18,2026-09-25,75000
+BrightLearn,Travel,Closed Won,Diya,2026-09-22,2026-09-27,100000
+PulseWear,Travel,Negotiation,Aarav,2026-09-17,2026-09-23,150000
+NovaWear,EdTech,Lead Identified,Aarav,2026-09-22,2026-10-01,250000
+VertexPay,Fashion,Closed Won,Aarav,2026-09-25,2026-09-28,100000
+CobaltLabs,Fashion,Closed Lost,Diya,2026-09-17,2026-09-26,250000
+ApexDrinks,FinTech,Closed Lost,Aarav,2026-09-28,2026-10-02,100000
+ZenithLabs,Telecom,Negotiation,Meera,2026-09-18,2026-09-24,25000
+OrbitFoods,Fashion,Lead Identified,Diya,2026-09-27,2026-10-06,250000
+LumenDrinks,FinTech,Contacted,Kabir,2026-09-21,2026-09-29,25000
+NovaWorks,Food & Beverage,Closed Lost,Diya,2026-09-29,2026-10-02,100000
+NovaDrinks,Fashion,Closed Won,Diya,2026-09-15,2026-09-20,25000
+VertexLabs,Gaming,Pitch Sent,Meera,2026-09-24,2026-09-30,150000
+EmberLearn,Gaming,Closed Lost,Kabir,2026-09-25,2026-09-28,100000
+CobaltPlay,Travel,Pitch Sent,Aarav,2026-09-29,2026-10-07,150000
+OrbitTrips,EdTech,Pitch Sent,Aarav,2026-09-30,2026-10-08,50000
+ApexWorks,FMCG,Contacted,Meera,2026-09-23,2026-09-28,75000
+CobaltDrinks,Travel,Pitch Sent,Aarav,2026-09-29,2026-10-03,25000
+PulseWorks,Fashion,Closed Lost,Kabir,2026-09-19,2026-09-27,150000
+CobaltWear,Travel,Closed Won,Aarav,2026-09-23,2026-09-28,150000
+NovaFoods,Food & Beverage,Pitch Sent,Diya,2026-09-22,2026-09-28,250000
+LumenLabs,Food & Beverage,Negotiation,Meera,2026-09-25,2026-10-03,25000
+EmberFoods,EdTech,Pitch Sent,Aarav,2026-09-24,2026-10-02,50000
+PulseLearn,Fashion,Negotiation,Diya,2026-09-10,2026-09-16,50000
+VertexMobile,EdTech,Closed Lost,Kabir,2026-09-25,2026-10-03,75000
+OrbitPlay,Telecom,Contacted,Aarav,2026-09-14,2026-09-17,150000
+CobaltTrips,FMCG,Pitch Sent,Aarav,2026-09-11,2026-09-19,250000
+ApexPay,EdTech,Lead Identified,Meera,2026-09-26,2026-09-30,150000
+PulseFoods,FinTech,Negotiation,Kabir,2026-10-02,2026-10-05,25000
